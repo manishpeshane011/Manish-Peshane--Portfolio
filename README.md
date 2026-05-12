@@ -9,5 +9,5 @@ This portfolio showcases my projects, technical skills, certifications, experien
 
 Add your deployed portfolio link here:
 
-```bash
-https://your-portfolio-link.com
+
+https://manish-peshane-portfolio.vercel.app/
